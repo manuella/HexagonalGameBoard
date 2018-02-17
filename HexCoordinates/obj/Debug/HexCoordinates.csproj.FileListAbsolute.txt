@@ -1,0 +1,5 @@
+C:\Users\Evan\Documents\HexProject\HexCoordinates\HexCoordinates\bin\Debug\HexCoordinates.dll
+C:\Users\Evan\Documents\HexProject\HexCoordinates\HexCoordinates\bin\Debug\HexCoordinates.pdb
+C:\Users\Evan\Documents\HexProject\HexCoordinates\HexCoordinates\obj\Debug\HexCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\HexProject\HexCoordinates\HexCoordinates\obj\Debug\HexCoordinates.dll
+C:\Users\Evan\Documents\HexProject\HexCoordinates\HexCoordinates\obj\Debug\HexCoordinates.pdb
